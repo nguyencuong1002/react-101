@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getCommentList } from "../services/comment";
+import { getCommentList } from "../Services/comment";
 import Review from "./Review";
 
 export default function UseEffect() {
